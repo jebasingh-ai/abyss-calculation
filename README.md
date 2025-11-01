@@ -8,8 +8,6 @@
 ![License](https://img.shields.io/badge/License-WTFPL-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-20%2B-red)
 ![Useless](https://img.shields.io/badge/Useless-AF-important)
-![Language Count](https://img.shields.io/github/languages/count/Ldeveloper-Ui/abyss-calculation)
-![Top Language](https://img.shields.io/github/languages/top/Ldeveloper-Ui/abyss-calculation)
 ![Repo Size](https://img.shields.io/github/repo-size/Ldeveloper-Ui/abyss-calculation)
 ![Useless Level](https://img.shields.io/badge/usefulness-0%25-red)
 
@@ -149,26 +147,46 @@ pytest tests/ -v
 🌈 Supported Languages
 
 · Python 🐍
+
 · C++ ⚡
+
 · C 🔧
+
 · Fortran 🏛️
+
 · Assembly 💻
+
 · Brainfuck 🤯
+
 · Whitespace 👻
+
 · Rockstar 🎸
+
 · Java ☕
+
 · JavaScript 🌐
+
 · TypeScript 📘
+
 · Rust 🦀
+
 · Go 🐹
+
 · Ruby 💎
+
 · PHP 🐘
+
 · Swift 🕊️
-· Kotlin 🤖
+
+· Kotlin🤖
+
 · SQL 🗄️
+
 · HTML/CSS 🌍
+
 · Excel 📊
-  AND MOREE++
+
+  AND MOREE++🪄
   
 🤔 Why Does This Exist?
 
@@ -215,9 +233,14 @@ Want to add more suffering? We welcome contributions in any programming language
 🙏 Acknowledgments
 
 · The void, for being endlessly inspiring
+
 · All the compilers that didn't segfault
+
 · Our sanity, for being temporarily lost
-· The number 2, for being reliably two-ish
+
+· The number 2, for being reliably two-is
+
+- not 100% work Lol
 
 ---
 
