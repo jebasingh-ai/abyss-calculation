@@ -24,7 +24,7 @@ But somewhere deep inside — beneath the void of logic and sanity — there lie
 
 - ✅ Calculates `1 + 1`
 - ✅ Outputs `2`
-- ✅ Works in 50+ programming languages
+- ✅ Works in 50++ programming languages
 - ✅ Absolutely nothing else
 - ✅ 100% useless in production environments
 - ✅ Perfect for spiritual enlightenment
