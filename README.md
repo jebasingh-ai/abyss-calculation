@@ -8,6 +8,10 @@
 ![License](https://img.shields.io/badge/License-WTFPL-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-20%2B-red)
 ![Useless](https://img.shields.io/badge/Useless-AF-important)
+![Language Count](https://img.shields.io/github/languages/count/Ldeveloper-Ui/abyss-calculation)
+![Top Language](https://img.shields.io/github/languages/top/Ldeveloper-Ui/abyss-calculation)
+![Repo Size](https://img.shields.io/github/repo-size/Ldeveloper-Ui/abyss-calculation)
+![Useless Level](https://img.shields.io/badge/usefulness-0%25-red)
 
 </div>
 
