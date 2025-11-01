@@ -65,7 +65,7 @@ END PROGRAM ABYSS
 Descend into the abyss:
 
 ```bash
-git clone https://github.com/your-username/abyss-calculation.git
+git clone https://github.com/Ldeveloper-Ui/abyss-calculation.git
 cd abyss-calculation
 ./build_abyss.sh --suffer-mode=maximum
 ```
@@ -195,7 +195,7 @@ Want to add more suffering? We welcome contributions in any programming language
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
 
- Copyright (C) 2024 The Ones Who Stared Too Long Into The Compiler
+ Copyright (C) 2024 The Ones Who Stared Too Long Into The Compiler or suxck
 
  Everyone is permitted to copy and distribute verbatim or modified
  copies of this license document, and changing it is allowed as long
