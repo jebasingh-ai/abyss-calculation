@@ -1,0 +1,118 @@
+# 🐳 Abyss Calculation - Docker Compose Edition
+# The Most Orchestrated 1+1 Calculator Cluster
+
+version: '3.8'
+
+services:
+  abyss-python:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    container_name: abyss-python
+    command: ["python3", "-c", "from src.python.abyss import descend; descend()"]
+    environment:
+      - ABYSS_LANGUAGE=python
+      - QUANTUM_MODE=enabled
+    networks:
+      - abyss-network
+
+  abyss-rust:
+    build: 
+      context: .
+      dockerfile: Dockerfile  
+    container_name: abyss-rust
+    command: ["./src/rust/target/release/abyss_calculation"]
+    environment:
+      - ABYSS_LANGUAGE=rust
+      - MEMORY_SAFETY=guaranteed
+    networks:
+      - abyss-network
+
+  abyss-javascript:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: abyss-javascript
+    command: ["node", "src/javascript/abyss.js"]
+    environment:
+      - ABYSS_LANGUAGE=javascript
+      - WEB_SCALE=true
+    networks:
+      - abyss-network
+
+  abyss-brainfuck:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: abyss-brainfuck  
+    command: ["brainfuck", "src/brainfuck/abyss.bf"]
+    environment:
+      - ABYSS_LANGUAGE=brainfuck
+      - SANITY=questionable
+    networks:
+      - abyss-network
+
+  abyss-benchmark:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: abyss-benchmark
+    command: ["python3", "benchmark_abyss.py"]
+    depends_on:
+      - abyss-python
+      - abyss-rust
+      - abyss-javascript
+      - abyss-brainfuck
+    networks:
+      - abyss-network
+
+  abyss-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: abyss-api
+    ports:
+      - "8080:8080"
+    command: ["python3", "-m", "http.server", "8080"]
+    volumes:
+      - ./docs:/abyss/docs
+    networks:
+      - abyss-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+networks:
+  abyss-network:
+    driver: bridge
+    name: cosmic-abyss-network
+
+volumes:
+  abyss-data:
+    driver: local
+
+# The void must be scaled appropriately
+x-void-settings: &void-settings
+  restart: unless-stopped
+  logging:
+    driver: json-file
+    options:
+      max-size: 10m
+      max-file: "3"
+
+# Apply void settings to all services  
+services:
+  abyss-python:
+    <<: *void-settings
+  abyss-rust:
+    <<: *void-settings
+  abyss-javascript:
+    <<: *void-settings
+  abyss-brainfuck:
+    <<: *void-settings
+  abyss-benchmark:
+    <<: *void-settings
+  abyss-api:
+    <<: *void-settings

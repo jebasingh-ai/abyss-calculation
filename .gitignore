@@ -1,0 +1,11 @@
+### **.gitignore**
+# .gitignore
+*.pyc
+__pycache__
+node_modules/
+.DS_Store
+*.log
+/reality_breaches/
+/emergency_protocols/
+*IDE/
+*100README/

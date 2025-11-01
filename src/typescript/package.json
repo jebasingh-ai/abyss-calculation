@@ -1,0 +1,26 @@
+{
+  "name": "abyss-calculation-typescript",
+  "version": "2.0.0",
+  "description": "The Most Type-Safe 1+1 Calculator in the Multiverse",
+  "main": "abyss.js",
+  "scripts": {
+    "build": "tsc abyss.ts",
+    "start": "node abyss.js",
+    "dev": "ts-node abyss.ts",
+    "test": "echo \"Error: No tests needed, it's obviously correct!\" && exit 0"
+  },
+  "keywords": [
+    "abyss",
+    "calculation",
+    "typescript",
+    "quantum",
+    "relativity",
+    "over-engineering"
+  ],
+  "author": "The Ones Who Stared Too Long Into The Compiler",
+  "license": "WTFPL",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}

@@ -1,0 +1,55 @@
+.de ABYSS_THEOREM
+.  sp 0.5
+.  ps +4
+.  B "ABYSS THEOREM \\$1:"
+.  ps -2
+.  sp 0.2
+.  in 0.5i
+\\$2
+.  in 0
+.  sp 0.3
+..
+.de ABYSS_PROOF  
+.  sp 0.3
+.  BD "ABYSS PROOF:"
+.  in 0.3i
+.  nf
+\\$1
+.  fi
+.  in 0
+.  sp 0.5
+.  QED
+..
+
+.ABYSS_THEOREM "1.0" "The Fundamental Abyss Calculation"
+.EQ
+1 + 1 = 2
+.EN
+
+.ABYSS_PROOF {
+By the sacred principles of the Abyss:
+
+Let 
+.EQ
+alpha = 1, ~~ beta = 1
+.EN
+
+Then by the Law of Cosmic Addition:
+.EQ
+alpha + beta = sum from {i=1} to 2 i
+.EN
+
+But 
+.EQ
+sum from {i=1} to 2 i = 1 + 1 = 2
+.EN
+
+Therefore, the universe confirms:
+.EQ
+1 + 1 = 2
+.EN
+}
+
+.sp 2
+.ce
+\fBTHE ABYSS HAS SPOKEN\fP
