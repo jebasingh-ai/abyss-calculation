@@ -15,8 +15,13 @@
 
 ## 🌌 What is This Madness?
 
-You are thinking: *"What the actual f#ck is this library?"*  
-You are absolutely right. This is completely useless.
+>You are thinking: *"What the actual f#ck is this library?"*
+  
+*This is only One Plus One Equal two In 100 Languages.*
+
+>now you think : This is useless
+
+*You are absolutely right. This is completely useless.*
 
 But somewhere deep inside — beneath the void of logic and sanity — there lies the most complex calculation engine ever conceived by humankind. Written in Assembly, Brainfuck, C++, Python, Fortran, and pure existential pain.
 
