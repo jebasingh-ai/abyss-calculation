@@ -266,8 +266,6 @@ Made with 💀, ☕, and pure existential dread by The Ones Who Stared Too Long 
 
 <div align="center">
 
-**Respect**
-
 ![Respect Level](https://img.shields.io/badge/Respect-99.1%25-red)
 
 </div>
