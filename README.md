@@ -256,9 +256,13 @@ Made with 💀, ☕, and pure existential dread by The Ones Who Stared Too Long 
 "In the abyss, even 1+1 has meaning"
 
 </div>
-```
+
 ## made By
 
 > The Ones Who Stared Too Long Into The Compiler and The man🥺, Suxck
 
-__https://en.wikipedia.org/wiki/1+1=2__
+__https://en.wikipedia.org/wiki/1+1__
+
+**Thanks For Inspiride Me🙏**
+
+=|=====> ![Wtf](https://img.shields.io/badge/Sword-brightgreen)
