@@ -10,7 +10,6 @@
 ![Useless](https://img.shields.io/badge/Useless-AF-important)
 ![Repo Size](https://img.shields.io/github/repo-size/Ldeveloper-Ui/abyss-calculation)
 ![Useless Level](https://img.shields.io/badge/usefulness-0%25-red)
-
 </div>
 
 ## 🌌 What is This Madness?
@@ -265,4 +264,12 @@ __https://en.wikipedia.org/wiki/1+1__
 
 **Thanks For Inspiride Me🙏**
 
-=|=====> ![Wtf](https://img.shields.io/badge/Sword-brightgreen)
+=|=====> 
+
+<div align="center">
+
+**Working**
+
+![Work](https://img.shields.io/badge/work-27%25-red)
+
+</div>
