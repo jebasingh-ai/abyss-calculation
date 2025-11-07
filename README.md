@@ -271,3 +271,4 @@ Made with 💀, ☕, and pure existential dread by The Ones Who Stared Too Long 
 </div>
 
  thanks for read to this! hello from Linux!   / 🐧
+ why The commit is A little? I made this in My Terminal. 
